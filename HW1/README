@@ -1,0 +1,2 @@
+For some reason I can't figure out, when reading from the file and copying the world state,
+I'm skipping the first column.
